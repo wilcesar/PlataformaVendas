@@ -150,7 +150,7 @@ procedure TFrmPrincipal.SBEditarProdutoClick(Sender: TObject);
 begin
   try
     ID := FDMTProdutosID.AsInteger;
-    FrmProduto := TFrmProduto.Create(Self);
+    FrmProduto := TFrmProduto.Create(nil);
     FrmProduto.PanelProduto.Caption := 'Produto ' + FDMTProdutosID.AsString;
     FrmProduto.ShowModal;
   finally
@@ -175,7 +175,8 @@ end;
 procedure TFrmPrincipal.SBNovoProdutoClick(Sender: TObject);
 begin
   try
-    FrmProduto := TFrmProduto.Create(Self);
+    ID := 0;
+    FrmProduto := TFrmProduto.Create(nil);
     FrmProduto.PanelProduto.Caption := 'Novo produto';
     FrmProduto.ShowModal;
   finally

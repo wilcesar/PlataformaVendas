@@ -86,6 +86,12 @@ end;
 
 procedure TFrmProduto.SBSalvarClick(Sender: TObject);
 begin
+  if EdtNome.Text = '' then
+  begin
+    ShowMessage('O campo Nome é obrigatório!');
+    EdtNome.SetFocus;
+    Exit;
+  end;
   ProdutosDAO.CadastraProduto(idUpdate);
   LimparCampos;
   close;
