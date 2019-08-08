@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/24 18:12:21.000.448,=C:\Users\wilce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 18:42:05.000.807,=C:\Users\wilce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 18:42:56.000.848,C:\Users\wilce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\PlataformaVendas\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2019/08/06 18:42:56.000.848,C:\Users\wilce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\PlataformaVendas\uFrmPrincipal.pas</Transaction>
+    <Transaction>2019/08/06 18:43:09.000.608,C:\Users\wilce\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\PlataformaVendas\PlataformaVendas.dproj</Transaction>
+    <Transaction>2019/08/06 18:56:56.000.395,=D:\Projetos\PlataformaVendas\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 18:57:18.000.964,D:\Projetos\PlataformaVendas\Unit1.pas=D:\Projetos\PlataformaVendas\uDM.pas</Transaction>
+    <Transaction>2019/08/06 18:57:18.000.964,D:\Projetos\PlataformaVendas\Unit1.dfm=D:\Projetos\PlataformaVendas\uDM.dfm</Transaction>
+    <Transaction>2019/08/06 21:33:06.000.411,=D:\Projetos\PlataformaVendas\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 21:33:51.000.104,D:\Projetos\PlataformaVendas\Unit1.pas=D:\Projetos\PlataformaVendas\DAO\uProdutosDAO.pas</Transaction>
+    <Transaction>2019/08/06 22:55:20.000.903,=D:\Projetos\PlataformaVendas\Unit1.pas</Transaction>
+    <Transaction>2019/08/06 22:55:43.000.386,D:\Projetos\PlataformaVendas\DAO\BaseDAO.pas=D:\Projetos\PlataformaVendas\Unit1.pas</Transaction>
+    <Transaction>2019/08/07 00:25:51.000.638,=D:\Projetos\PlataformaVendas\Unit1.pas</Transaction>
+    <Transaction>2019/08/07 00:28:09.000.559,D:\Projetos\PlataformaVendas\Unit1.pas=D:\Projetos\PlataformaVendas\uFrmValores.pas</Transaction>
+    <Transaction>2019/08/07 00:28:09.000.559,D:\Projetos\PlataformaVendas\Unit1.dfm=D:\Projetos\PlataformaVendas\uFrmValores.dfm</Transaction>
+    <Transaction>2019/08/07 22:16:47.000.460,=D:\Projetos\PlataformaVendas\Unit1.pas</Transaction>
+    <Transaction>2019/08/07 22:17:25.000.926,D:\Projetos\PlataformaVendas\Unit1.pas=D:\Projetos\PlataformaVendas\uComum.pas</Transaction>
+    <Transaction>2019/08/08 00:05:26.079,=D:\Projetos\PlataformaVendas\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 00:05:42.795,D:\Projetos\PlataformaVendas\DAO\uCestaDAO.pas=D:\Projetos\PlataformaVendas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
